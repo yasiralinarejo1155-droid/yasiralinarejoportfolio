@@ -1,0 +1,691 @@
+{
+  "name": "Yasir Ali Narejo",
+  "identity": "AI Specialist | Full-Stack Developer | UI/UX Designer",
+  "description": "Yasir Ali Narejo is an AI specialist, full-stack developer, and UI/UX designer building AI solutions, modern websites, web applications, and creative digital experiences.",
+  "email": "yasiralinarejo1155@gmail.com",
+  "phone": "03203798756",
+  "site": "https://yasir-ali-narejo.netlify.app",
+  "socials": {
+    "LinkedIn": "https://www.linkedin.com/in/yasir-ali-b00379437",
+    "GitHub": "https://github.com/yasiralinarejo1155-droid",
+    "Fiverr": "https://www.fiverr.com/s/jyj2gNo",
+    "YouTube": "https://youtube.com/@codecraftofficial-k7d"
+  },
+  "services": [
+    {
+      "id": "ai-solutions",
+      "name": "AI & Intelligent Solutions",
+      "icon": "BrainCircuit",
+      "intro": "Make intelligent features useful in your product.",
+      "headline": "AI around a real use case.",
+      "features": [
+        "AI-powered applications",
+        "AI integration",
+        "Intelligent workflow design",
+        "Automation"
+      ],
+      "audience": "Businesses and teams exploring a practical AI use case.",
+      "tools": [
+        "Artificial Intelligence",
+        "Python",
+        "Prompt Engineering"
+      ],
+      "benefit": "Bring repetitive tasks and intelligent assistance into a clear workflow.",
+      "brief": "Explain the task, available data, users and the outcome you need.",
+      "projects": [
+        "truthtrail",
+        "smartcv",
+        "languagebridge"
+      ]
+    },
+    {
+      "id": "ai-chatbots",
+      "name": "AI Chatbots & AI Agents",
+      "icon": "BrainCircuit",
+      "intro": "Conversational assistants built around your information and tasks.",
+      "headline": "A clearer path to answers.",
+      "features": [
+        "Portfolio or business assistants",
+        "Knowledge-base conversations",
+        "AI agent prototypes",
+        "Integration and behavior testing"
+      ],
+      "audience": "Businesses, creators and teams who need an assistant.",
+      "tools": [
+        "AI Chatbots",
+        "AI Agents",
+        "Python",
+        "Prompt Engineering"
+      ],
+      "benefit": "Help people find relevant information and understand the next step.",
+      "brief": "Share your questions, source information, desired actions and integration needs.",
+      "projects": []
+    },
+    {
+      "id": "ai-ml",
+      "name": "AI/ML Projects",
+      "icon": "BrainCircuit",
+      "intro": "Explore, prototype and evaluate an AI or machine learning idea.",
+      "headline": "From data to a working prototype.",
+      "features": [
+        "Problem definition",
+        "Data preparation guidance",
+        "Model development",
+        "Evaluation and demo support"
+      ],
+      "audience": "Individuals and teams developing AI/ML prototypes.",
+      "tools": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Jupyter Notebook",
+        "Google Colab"
+      ],
+      "benefit": "Make the project understandable, testable and connected to a real problem.",
+      "brief": "Share the problem, dataset availability, desired outputs and project constraints.",
+      "projects": []
+    },
+    {
+      "id": "web-development",
+      "name": "Full-Stack Web Development",
+      "icon": "Code2",
+      "intro": "Responsive websites and web applications, from interface to backend.",
+      "headline": "Build the complete experience.",
+      "features": [
+        "Business and portfolio websites",
+        "Frontend and backend development",
+        "Web applications and dashboards",
+        "Database integration and deployment guidance"
+      ],
+      "audience": "Businesses, startups, creators and individuals.",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Python"
+      ],
+      "benefit": "Connect clear design with the features your visitors need.",
+      "brief": "Share required pages, features, branding, content and reference websites.",
+      "projects": [
+        "hci",
+        "hunargah"
+      ]
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend Development",
+      "icon": "Monitor",
+      "intro": "Turn interface designs into responsive, interactive pages.",
+      "headline": "The part your users experience.",
+      "features": [
+        "Responsive layouts",
+        "Interactive components",
+        "Accessible navigation",
+        "Browser and device checks"
+      ],
+      "audience": "Teams with designs or a product needing a usable frontend.",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "benefit": "Create a clear interface across desktop and mobile.",
+      "brief": "Provide designs, required interactions and any backend integration details.",
+      "projects": [
+        "hci",
+        "hunargah"
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend Development",
+      "icon": "Code2",
+      "intro": "Build the application logic behind your digital product.",
+      "headline": "Make the workflow function.",
+      "features": [
+        "Application logic",
+        "Database integration",
+        "Frontend integration",
+        "Workflow testing"
+      ],
+      "audience": "Projects that need data and server-side functionality.",
+      "tools": [
+        "Python",
+        "Backend Development",
+        "Full-Stack Development"
+      ],
+      "benefit": "Support the features behind your interface with a defined implementation.",
+      "brief": "Describe data, user roles, workflows and integrations.",
+      "projects": []
+    },
+    {
+      "id": "web-design",
+      "name": "Web Design",
+      "icon": "PenTool",
+      "intro": "Plan a website that communicates clearly and guides visitors.",
+      "headline": "A clear visual direction.",
+      "features": [
+        "Page layout design",
+        "Visual hierarchy",
+        "Mobile layouts",
+        "Website redesign concepts"
+      ],
+      "audience": "Brands, businesses and individuals planning a website.",
+      "tools": [
+        "Figma",
+        "UI/UX Design",
+        "Wireframing"
+      ],
+      "benefit": "Help visitors understand your offering and take the next step.",
+      "brief": "Share your brand, content, target audience and references.",
+      "projects": [
+        "hunargah"
+      ]
+    },
+    {
+      "id": "ui-ux",
+      "name": "UI/UX Design",
+      "icon": "PenTool",
+      "intro": "Intuitive interfaces shaped around your users and goals.",
+      "headline": "Design with purpose.",
+      "features": [
+        "User flows",
+        "Wireframes",
+        "Website and app interfaces",
+        "Interactive prototypes"
+      ],
+      "audience": "Products that need a clear and usable experience.",
+      "tools": [
+        "Figma",
+        "Wireframing",
+        "Prototyping",
+        "UI/UX Design"
+      ],
+      "benefit": "Reduce confusion with a consistent structure and useful interactions.",
+      "brief": "Describe the audience, key tasks, screens and current usability issues.",
+      "projects": []
+    },
+    {
+      "id": "figma",
+      "name": "Figma Design",
+      "icon": "PenTool",
+      "intro": "Screen designs and prototypes ready for review and handoff.",
+      "headline": "Make the idea tangible.",
+      "features": [
+        "Wireframes",
+        "High-fidelity screens",
+        "Interactive prototypes",
+        "Developer handoff"
+      ],
+      "audience": "Founders, developers and teams planning interfaces.",
+      "tools": [
+        "Figma",
+        "UI Design",
+        "Prototyping"
+      ],
+      "benefit": "Review the flow and visual direction before development.",
+      "brief": "Provide screen requirements, branding and reference interfaces.",
+      "projects": []
+    },
+    {
+      "id": "graphic-design",
+      "name": "Graphic Design",
+      "icon": "Palette",
+      "intro": "Consistent visual assets for your brand, platform or message.",
+      "headline": "Design that communicates.",
+      "features": [
+        "Brand-aligned digital graphics",
+        "Banners and presentations",
+        "Social content",
+        "Export-ready assets"
+      ],
+      "audience": "Businesses, creators, communities and individuals.",
+      "tools": [
+        "Canva",
+        "Graphic Design"
+      ],
+      "benefit": "Give your content a readable and consistent visual identity.",
+      "brief": "Share text, logo, preferred style, output sizes and where the design will be used.",
+      "projects": []
+    },
+    {
+      "id": "posters",
+      "name": "Poster Design",
+      "icon": "Palette",
+      "intro": "Clear, attractive posters for events, workshops and promotions.",
+      "headline": "Put the message first.",
+      "features": [
+        "Event and workshop posters",
+        "Promotional layouts",
+        "Typography and hierarchy",
+        "Platform-sized exports"
+      ],
+      "audience": "Organizers, communities and businesses.",
+      "tools": [
+        "Canva",
+        "Graphic Design"
+      ],
+      "benefit": "Keep the key details readable and the action easy to find.",
+      "brief": "Send the final text, date, time, platform, contact details, logo and size.",
+      "projects": []
+    },
+    {
+      "id": "thumbnails",
+      "name": "YouTube Thumbnail Design",
+      "icon": "Monitor",
+      "intro": "Readable thumbnail designs built around your video topic.",
+      "headline": "A clear first impression.",
+      "features": [
+        "Video-specific concepts",
+        "Strong text hierarchy",
+        "Channel visual consistency",
+        "YouTube-ready exports"
+      ],
+      "audience": "YouTube creators and educators.",
+      "tools": [
+        "Canva",
+        "Graphic Design"
+      ],
+      "benefit": "Communicate the topic clearly at a small viewing size.",
+      "brief": "Share the video title, topic, key image and channel style. No view or click guarantees are implied.",
+      "projects": []
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media Graphics",
+      "icon": "Palette",
+      "intro": "Coordinated visual content for your social channels.",
+      "headline": "Keep your message consistent.",
+      "features": [
+        "Social posts",
+        "Campaign graphics",
+        "Banners",
+        "Content templates"
+      ],
+      "audience": "Brands, communities and creators.",
+      "tools": [
+        "Canva",
+        "Creative Design"
+      ],
+      "benefit": "Build a coherent look across related posts and announcements.",
+      "brief": "Provide the platform, content, brand assets, dimensions and number of designs.",
+      "projects": []
+    },
+    {
+      "id": "digital-marketing",
+      "name": "Digital Marketing",
+      "icon": "Megaphone",
+      "intro": "Content and channel support around your communication goals.",
+      "headline": "An intentional digital presence.",
+      "features": [
+        "Content planning",
+        "Social media management",
+        "Marketing graphics",
+        "Digital communication support"
+      ],
+      "audience": "Businesses and personal brands.",
+      "tools": [
+        "Digital Marketing",
+        "Social Media",
+        "Canva"
+      ],
+      "benefit": "Keep content focused on your audience and message.",
+      "brief": "Share current channels, target audience, goals and available content.",
+      "projects": []
+    },
+    {
+      "id": "content-writing",
+      "name": "Content Writing",
+      "icon": "BookOpen",
+      "intro": "Clear, purposeful copy for websites and digital channels.",
+      "headline": "Say it clearly.",
+      "features": [
+        "Website content",
+        "Social media copy",
+        "Professional descriptions",
+        "Content editing"
+      ],
+      "audience": "Businesses, creators and individuals.",
+      "tools": [
+        "Content Writing",
+        "Digital Content"
+      ],
+      "benefit": "Help readers understand your message and what to do next.",
+      "brief": "Provide the topic, target reader, tone, length and source information.",
+      "projects": []
+    },
+    {
+      "id": "fyp-projects",
+      "name": "FYP & Academic Projects",
+      "icon": "BookOpen",
+      "intro": "Guidance and prototypes that help you build and understand your work.",
+      "headline": "Build it. Understand it. Present it.",
+      "features": [
+        "Idea selection and scoping",
+        "AI/ML and web prototypes",
+        "Debugging and implementation guidance",
+        "Demo and presentation support"
+      ],
+      "audience": "Learners seeking collaborative project support.",
+      "tools": [
+        "Python",
+        "AI/ML",
+        "Web Development",
+        "Prototyping"
+      ],
+      "benefit": "Make progress with a scope and implementation you can explain. Follow your institution’s rules.",
+      "brief": "Share the requirements, your existing work, deadline and the areas where you need guidance.",
+      "projects": [
+        "hci"
+      ]
+    },
+    {
+      "id": "cv-resume",
+      "name": "CV/Resume Design",
+      "icon": "Layers",
+      "intro": "A clear, well-organized presentation of your real experience.",
+      "headline": "Make your experience readable.",
+      "features": [
+        "Content structure",
+        "Professional layout",
+        "Readable typography",
+        "Export-ready resume"
+      ],
+      "audience": "Individuals preparing career documents.",
+      "tools": [
+        "Canva",
+        "Creative Design",
+        "Content Writing"
+      ],
+      "benefit": "Present relevant information clearly without invented credentials.",
+      "brief": "Share your current CV, real experience, skills and target role.",
+      "projects": []
+    },
+    {
+      "id": "fiverr",
+      "name": "Fiverr Profile Setup",
+      "icon": "Layers",
+      "intro": "Organize your profile and service descriptions professionally.",
+      "headline": "Present what you offer.",
+      "features": [
+        "Profile content",
+        "Service positioning",
+        "Gig description guidance",
+        "Visual presentation support"
+      ],
+      "audience": "Freelancers preparing or improving their own profile.",
+      "tools": [
+        "Content Writing",
+        "Canva",
+        "Digital Marketing"
+      ],
+      "benefit": "Make your services easier to understand. No ranking, approval or sales guarantees.",
+      "brief": "Share your skills, existing work and service ideas. Keep passwords and verification under your control.",
+      "projects": []
+    },
+    {
+      "id": "upwork",
+      "name": "Upwork Profile Setup",
+      "icon": "Layers",
+      "intro": "Structure a professional profile around your genuine skills and work.",
+      "headline": "A focused professional introduction.",
+      "features": [
+        "Profile summary",
+        "Skills presentation",
+        "Portfolio organization",
+        "Service description guidance"
+      ],
+      "audience": "Freelancers improving their professional presentation.",
+      "tools": [
+        "Content Writing",
+        "Creative Design"
+      ],
+      "benefit": "Help potential clients understand your offering. No job or earnings guarantees.",
+      "brief": "Share your skills, real projects and target services. Never send passwords or identity documents in this form.",
+      "projects": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "truthtrail",
+      "name": "TruthTrail — Anti-Ghost School Audit System",
+      "category": "ai",
+      "label": "AI / Education Technology",
+      "url": "https://truthtrail-khairpur-anti-ghost-school-audit-syste.ai.studio/",
+      "description": "A smart education-audit concept focused on improving transparency, identifying risk signals, and supporting accountability in school monitoring.",
+      "features": [
+        "AI",
+        "Education",
+        "School audit"
+      ],
+      "featured": true
+    },
+    {
+      "id": "smartcv",
+      "name": "SmartCV AI",
+      "category": "ai",
+      "label": "AI / Career Technology",
+      "url": "https://smartcv-ai.ai.studio/",
+      "description": "An intelligent CV-building platform that helps users create professional resumes through a guided, modern experience.",
+      "features": [
+        "AI",
+        "Career",
+        "Resume builder"
+      ],
+      "featured": true
+    },
+    {
+      "id": "languagebridge",
+      "name": "LanguageBridge for Gilgit-Baltistan",
+      "category": "ai",
+      "label": "AI / Language Technology",
+      "url": "https://language-bridge-for-gilgitian.vercel.app/",
+      "description": "A language-access platform designed to help users explore and bridge local Gilgit-Baltistan languages through a modern digital experience.",
+      "features": [
+        "AI",
+        "Language",
+        "Translation"
+      ],
+      "featured": true
+    },
+    {
+      "id": "kiu-research-hub",
+      "name": "KIU Research Hub — AI-Powered Research Platform",
+      "category": "ai",
+      "label": "AI / Education Technology / Research",
+      "url": "https://kiu-research-hub-ai-powered-researc-ochre.vercel.app/",
+      "description": "A modern AI-powered research platform created to support students and researchers in exploring research topics and academic work through a focused digital experience.",
+      "features": [
+        "AI",
+        "Research",
+        "KIU",
+        "Education"
+      ],
+      "featured": true
+    },
+    {
+      "id": "kiu-research-lab",
+      "name": "KIU Research Intelligence Lab — Research & Innovation Platform",
+      "category": "ai",
+      "label": "AI / Research / Academic Innovation",
+      "url": "https://kiu-research-intelligence-lab.vercel.app/",
+      "description": "A research intelligence platform designed to present academic innovation, research-focused tools, and intelligent digital solutions in a professional way.",
+      "features": [
+        "AI",
+        "Research",
+        "KIU",
+        "Education"
+      ],
+      "featured": true
+    },
+    {
+      "id": "hci",
+      "name": "HCI Learning Lab",
+      "category": "web",
+      "label": "Educational Web App",
+      "url": "https://hci-learning-lab.netlify.app/",
+      "description": "An interactive HCI educational web application with learning resources, quizzes, quiz scoring, assignments and exam preparation.",
+      "features": [
+        "Learning resources",
+        "Quizzes",
+        "Assignments"
+      ]
+    },
+    {
+      "id": "hunargah",
+      "name": "HunarGah",
+      "category": "web",
+      "label": "Business Website",
+      "url": "https://hunargah.netlify.app/",
+      "description": "A responsive professional website for HunarGah, showcasing digital services and an online presence.",
+      "features": [
+        "Responsive",
+        "Services",
+        "Business"
+      ]
+    },
+    {
+      "id": "hunza",
+      "name": "Hunza Heritage",
+      "category": "web",
+      "label": "Culture / Tourism Web Experience",
+      "url": "https://hunza-heritage.vercel.app/",
+      "description": "A visually engaging website that presents Hunza’s culture, identity, heritage, and tourism value through a modern web interface.",
+      "features": [
+        "Culture",
+        "Tourism",
+        "Web experience"
+      ]
+    },
+    {
+      "id": "cravebite",
+      "name": "CraveBite",
+      "category": "web",
+      "label": "Food Ordering / Web Application",
+      "url": "https://cravebite-food.vercel.app/",
+      "description": "A modern food-ordering and delivery web experience designed for easy browsing, selection, and ordering.",
+      "features": [
+        "Food ordering",
+        "Web app",
+        "Delivery"
+      ]
+    },
+    {
+      "id": "portfolio",
+      "name": "Yasir Ali Narejo Portfolio",
+      "category": "ux",
+      "label": "Personal Brand / UI & UX",
+      "url": "https://yasiralinarejo.lovable.app/",
+      "description": "A professional personal portfolio showcasing AI work, web development skills, creative services, and live digital projects.",
+      "features": [
+        "Personal brand",
+        "UI/UX",
+        "Portfolio"
+      ]
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "AI Chatbots",
+    "AI Agents",
+    "Prompt Engineering",
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Frontend Development",
+    "Backend Development",
+    "Full-Stack Development",
+    "Responsive Web Development",
+    "UI/UX Design",
+    "Figma",
+    "Wireframing",
+    "Prototyping",
+    "Canva",
+    "Graphic Design",
+    "Social Media Graphics",
+    "YouTube Thumbnails",
+    "Digital Marketing",
+    "Content Writing",
+    "GitHub",
+    "VS Code",
+    "Jupyter Notebook",
+    "Google Colab",
+    "Django",
+    "API Integration",
+    "Database Fundamentals",
+    "SEO"
+  ],
+  "pricing": {
+    "scope": "Portfolio website package examples only; scope and delivery must be confirmed.",
+    "packages": [
+      {
+        "name": "Basic Portfolio",
+        "price": 80,
+        "pages": 1,
+        "days": 3,
+        "revisions": 1
+      },
+      {
+        "name": "Standard Portfolio",
+        "price": 150,
+        "pages": 4,
+        "days": 5,
+        "revisions": 2
+      },
+      {
+        "name": "Premium Portfolio",
+        "price": 250,
+        "pages": 7,
+        "days": 7,
+        "revisions": 3
+      }
+    ],
+    "custom": "Pricing depends on the project requirements. Please submit a service request for a custom quote."
+  },
+  "faqs": [
+    {
+      "question": "What services does Yasir offer?",
+      "answer": "AI solutions, AI chatbots and agents, web development, UI/UX, Figma, graphic design, posters, thumbnails, digital marketing, content writing and project guidance."
+    },
+    {
+      "question": "Can Yasir build a complete website?",
+      "answer": "Yes. The service can include frontend and backend development, responsive layouts and deployment guidance."
+    },
+    {
+      "question": "Can Yasir build AI chatbots and AI agents?",
+      "answer": "Yes. Share your use case, knowledge sources and required integrations through a service request."
+    },
+    {
+      "question": "What technologies does Yasir use?",
+      "answer": "Python, HTML, CSS, JavaScript and React are part of the toolkit, alongside Figma, Canva, GitHub, VS Code, Jupyter Notebook and Google Colab."
+    },
+    {
+      "question": "How does portfolio pricing work?",
+      "answer": "Portfolio examples: Basic $80 for 1 page, 3 days and 1 revision; Standard $150 for 4 pages, 5 days and 2 revisions; Premium $250 for 7 pages, 7 days and 3 revisions. Other services require a custom quote."
+    },
+    {
+      "question": "Can I request a custom project?",
+      "answer": "Yes. Use Request a Service, choose the closest service or Custom project, and describe your requirements."
+    },
+    {
+      "question": "How do I submit a service request?",
+      "answer": "Open a service page, select Request This Service and complete the form. The chosen service is filled in automatically."
+    },
+    {
+      "question": "Where can I see Yasir’s work?",
+      "answer": "Open the Work section to see live projects including TruthTrail, SmartCV AI, LanguageBridge, KIU Research Hub, KIU Research Intelligence Lab, HCI Learning Lab, HunarGah, Hunza Heritage and CraveBite. Every project has a live link."
+    },
+    {
+      "question": "How can I contact Yasir?",
+      "answer": "Email yasiralinarejo1155@gmail.com, call or WhatsApp 0320 3798756, or use the contact form. Yasir is based in Khairpur Mirs, Sindh, Pakistan."
+    }
+  ],
+  "location": "Khairpur Mirs, Sindh, Pakistan",
+  "phoneDisplay": "0320 3798756"
+}
